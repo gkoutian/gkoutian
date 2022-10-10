@@ -11,8 +11,8 @@
 ## Quien soy
 
 - 🙍‍♂️ Desarrollador Full-Stack de Argentina.
-- 💼 Actualmente trabajo en [Licencias OnLine](http://licenciasonline.com/).
-- 🛠️ Estoy trabajando con [Angular 8+](https://angular.io/) y [Node.js](https://nodejs.org/es/).
+- 💼 Actualmente trabajo en [AYI Group](https://ayi.group/).
+- 🛠️ Estoy trabajando con [Angular 11+](https://angular.io/).
 
 <br />
 
