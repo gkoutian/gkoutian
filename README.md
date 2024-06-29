@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="yo.png" width="340px" style="margin-bottom: 100px"/>
 
-## Quien soy
+### Quien soy
 
 - 🙍‍♂️ Desarrollador Full-Stack de Argentina.
 - 💼 Actualmente trabajo en [AYI Group](https://ayi.group/).
